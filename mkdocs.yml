@@ -1,5 +1,6 @@
 site_name: "cal-itp/resources"
 repo_url: https://github.com/cal-itp/resources
+site_url: https://resources.calitp.org
 edit_uri: edit/main/docs
 
 theme:

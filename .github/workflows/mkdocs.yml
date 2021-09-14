@@ -18,3 +18,4 @@ jobs:
         env:
           REQUIREMENTS: docs/requirements.txt
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CUSTOM_DOMAIN: https://resources.calitp.org
